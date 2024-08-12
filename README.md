@@ -23,9 +23,3 @@ O objetivo do projeto foi criar uma nova arquitetura de software para o Bank of 
 - Grupo 3 
   - Link do repositório: https://github.com/InteliProjects/2024-1B-T06-ES08-G03
 
-- Grupo 4 
-  - Link do repositório: https://github.com/InteliProjects/2024-1B-T06-ES08-G04
-
-- Grupo 5 
-  - Link do repositório: https://github.com/InteliProjects/2024-1B-T06-ES08-G05
-
